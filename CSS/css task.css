@@ -1,0 +1,19 @@
+h1{
+    color: blue;
+    text-align: center;
+    font-size: x-large;
+    
+    
+}
+div{
+    font-size: x-small;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+img{
+   border: 1px solid black;
+   width: 33%; 
+   height: auto;
+   object-fit: cover;
+}
